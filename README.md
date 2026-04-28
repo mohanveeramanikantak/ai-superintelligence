@@ -25,21 +25,12 @@ It is considered the ultimate evolution of AI beyond Artificial General Intellig
 
 ---
 
-## 💻 Sample Code
+## 🧠 Generative AI Examples
+This repository includes basic generative AI implementations:
+- Text generation using Markov Chains
+- Simple GAN (Generative Adversarial Network)
 
-```python
-# Simple Machine Learning Example
-
-from sklearn.linear_model import LinearRegression
-
-X = [[1], [2], [3], [4]]
-y = [2, 4, 6, 8]
-
-model = LinearRegression()
-model.fit(X, y)
-
-print("Prediction for 10:", model.predict([[10]])[0])
-```
+Check the `/code` folder for implementations.
 
 ---
 

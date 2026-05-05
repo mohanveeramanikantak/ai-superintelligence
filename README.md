@@ -1,7 +1,7 @@
 # 🤖 AI Superintelligence
 
 ## 📌 Overview
- 
+  
 AI Superintelligence is a stage of artificial intelligence where machines surpass human intelligence in all aspects, including reasoning, creativity, and decision-making.
 
 It is considered the ultimate evolution of AI beyond Artificial General Intelligence (AGI).
